@@ -1,0 +1,14 @@
+{
+  "name": "text-to-talk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "doctor": "npx hyperframes doctor"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "hyperframes": "0.9.41"
+  }
+}
